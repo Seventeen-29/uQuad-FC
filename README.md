@@ -1,2 +1,3 @@
 # uQuad-FC
-Flight controller for micro quadcopters
+
+[WIP!] A simple ATMega328p-based flight controller for small quadcopters.
